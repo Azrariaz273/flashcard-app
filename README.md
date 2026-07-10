@@ -15,7 +15,7 @@ A clean and responsive web application designed for active recall and efficient 
 - Vanilla JavaScript
 
 ## 🔗 Live Demo
-[Insert your Netlify or Vercel link here]
+[https://azrariaz273.github.io/flashcard-app/]
 
 ## 💡 How to use
 1. Add a Question and Answer using the form.
